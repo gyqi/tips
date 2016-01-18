@@ -12,7 +12,7 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
-![alt tag](http://gph.is/1QgSv3a)
+<iframe src="//giphy.com/embed/xTcnT9Y6QRL8TjphzW" width="480" height="887" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW">via GIPHY</a></p>
 
 
 
