@@ -12,7 +12,7 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
-[![ScreenShot](http://gph.is/1QgSv3a)](http://gph.is/1QgSv3a)
+![alt tag](http://gph.is/1QgSv3a)
 
 
 
