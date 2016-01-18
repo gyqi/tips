@@ -12,7 +12,7 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
-[![ScreenShot] (http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
+[![ScreenShot] (http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)](http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
 
 
 
