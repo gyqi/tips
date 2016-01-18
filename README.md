@@ -12,7 +12,7 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://gph.is/1QgSv3a)
+[![ScreenShot](http://gph.is/1QgSv3a)](http://gph.is/1QgSv3a)
 
 
 
