@@ -12,7 +12,7 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
-<div style="max-width: 500px;" id="_giphy_xTcnT9Y6QRL8TjphzW"></div><script>var _giphy = _giphy || []; _giphy.push({id: "xTcnT9Y6QRL8TjphzW",w: 318, h: 588});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
+<iframe src="//giphy.com/embed/xTcnT9Y6QRL8TjphzW?html5=true" width="480" height="887" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW">via GIPHY</a></p>
 
 
 
