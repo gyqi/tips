@@ -10,7 +10,9 @@ Completed user stories:
 	▪	Optional: Create an app logo.
 	▪	Optional: Create a different color background for app.
 
-Walkthrough of user stories: http://gph.is/1QgSv3a
+Walkthrough of user stories: 
+
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://gph.is/1QgSv3a)
 
 
 
