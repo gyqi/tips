@@ -12,6 +12,10 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
+
+
+
+
 ![Alt Text](http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
 
 
