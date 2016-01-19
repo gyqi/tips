@@ -14,9 +14,6 @@ Walkthrough of user stories:
 
 ![Alt Text](http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
 
- <img alt="" height = "16" src="http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5f" width = "16"/>
-
-[![ScreenShot] (http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)](http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
 
 
 
