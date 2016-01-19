@@ -12,6 +12,8 @@ Completed user stories:
 
 Walkthrough of user stories: 
 
+ <img alt="" src="http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5f" />
+
 [![ScreenShot] (http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)](http://giphy.com/gifs/xTcnT9Y6QRL8TjphzW/html5)
 
 
